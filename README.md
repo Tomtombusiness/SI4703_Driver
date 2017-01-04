@@ -10,7 +10,7 @@ You have to install <a href="http://wiringpi.com/download-and-install/">wiringPi
 <pre>
 	<code>
 git clone https://github.com/Tomtombusiness/SI4703_Driver.git
-cd rpi-si4703/
+cd SI4703_Driver
 gcc -o Radio example/Radio.cpp Si4703_Breakout.cpp -lwiringPi
 sudo ./Radio
 	</code>
