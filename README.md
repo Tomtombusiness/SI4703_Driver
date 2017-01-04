@@ -16,4 +16,6 @@ sudo ./Radio
 	</code>
 </pre>
 
+More information about usage: http://tom-schorn.de/tutorials/programmierung/raspberry-pi-hardware-programmierung/raspberry-pi-3-si4703-ueber-i2c-und-c/
+
 
